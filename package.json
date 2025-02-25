@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "roshan",
   "license": "ISC",
-  "description": "The Weather API",
+  "description": "This is my new discription of Weather API",
   "dependencies": {
     "@faker-js/faker": "^9.5.0",
     "express": "^4.21.2",
